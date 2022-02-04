@@ -1,16 +1,3 @@
 # omegle_100ms
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Omegle is a free online chat website that allows users to socialize with others without the need to register. Omegle randomly pairs users one-on-one where they can interact using audio, video or chat anonymously.Here we are building omegle clone using 100ms.
